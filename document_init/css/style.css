@@ -1,0 +1,26 @@
+/*
+Estilos basicos
+*/
+*,
+*::after,
+*::before {
+    box-sizing: border-box; /*Reinicio de cajas*/
+}
+
+html {
+    font-family: Arial, sans-serif; /*Tipografia de letra*/
+}
+
+/*Centrado de cajas*/
+.centrado {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    margin: 0;
+}
+
+/*
+Estilos que ire añadiendo:
+*/
