@@ -18,10 +18,15 @@
     <link rel="canonical" href="https://www.midominio.com"> <!--Añadir-->
     <!-- Es para que el navegador comienze a descargar este archivo primero -->
     <link rel="preload" href="css/style.css" as="style">
-    <link rel="preload" href="css/style.css" as="style">
+    <link rel="preload" href="css/fontello.css" as="style">
     <!-- Icono para la pestaña -->
     <link rel="icon" href="img/favicon.ico" type="image/x-icon"> <!--Anadir-->
 </head>
 <body>
+    <header></header>
+    <nav></nav>
+    <main></main>
+    <aside></aside>
+    <footer></footer>
 </body>
 </html>
